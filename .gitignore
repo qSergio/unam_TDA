@@ -2,6 +2,18 @@
 __pycache__/
 *.py[cod]
 *$py.class
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.csv
+*.json
+.DS_Store
+*.DS_Store
+
+# C extensions
+*.so
+*.DS_store
 
 # C extensions
 *.so
